@@ -12,7 +12,7 @@ class AccountList extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Posts"),
+        title: Text("Accounts"),
       ),
       floatingActionButton: FloatingActionButton(
       shape: RoundedRectangleBorder(
